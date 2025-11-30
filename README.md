@@ -182,6 +182,10 @@ This project demonstrates:
 
 It forms part of a growing portfolio supporting my application for the UK Global Talent Visa in Digital Technology.
 
+Note: Model binaries (.pkl files) of scaler and random_forest_model are not included in this repository due to GitHub’s 25MB file size limit. 
+However, they can be easily reproduced by running the provided notebook.
+
+
 
 
 
