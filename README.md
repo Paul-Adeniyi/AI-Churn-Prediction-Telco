@@ -154,7 +154,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 # Author
 
 Paul Adeniyi Adesina 
-MSc – Applied Artificial Intelligence & Data Analytics  
+MSc – Applied Artificial Intelligence & Data Analytics
 Data Scientist/Analyst/ Aspiring Global Talent Visa Applicant  
 GitHub: https://github.com/Paul-Adeniyi
 LinkedIn: https://linkedin.com/in/paul-adeniyi-138b4b243
