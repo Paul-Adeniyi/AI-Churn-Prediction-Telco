@@ -118,7 +118,6 @@ This helps bridge data science with business intelligence.
 
 # 6. How to Reproduce the Project
 
-#Clone the repository
 git clone https://github.com/Paul-Adeniyi/AI-Churn-Prediction-Telco
 
 
